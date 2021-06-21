@@ -1,0 +1,15 @@
+@keyframes jump-logo {
+    0%,
+    100% {
+        transform: translateY(0)
+    }
+    60% {
+        transform: translateY(15px)
+    }
+}
+
+.logo {
+    width: 65px;
+    height: auto;
+    animation: jump-logo 3s ease-in-out infinite;
+}
