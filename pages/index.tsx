@@ -24,7 +24,7 @@ export default function LandingPage() {
           </h1>
           <Space y={30} />
           <p>
-            ~ think deep, don't sink
+            I make computers do the work for you so you don't have to. Maybe one day I can make something to do my job for me so I can be replaced.
           </p>
           <Space y={30} />
           <p>
